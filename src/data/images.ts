@@ -1,0 +1,17 @@
+export const IMG = {
+  heroBride: 'https://d64gsuwffb70l.cloudfront.net/682e0896b7c1872af32988f8_1779953695224_d16a3005.jpeg',
+  logo: '/logo.png',
+  receptionTable: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921363350_87dcd0b6.png',
+  outdoorCeremony: '/bruiloften.JPG',
+  conference: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921407576_ecb1f7d5.png',
+  community: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921430461_3607fcdc.png',
+  cocktail: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921447093_d87c41ba.jpg',
+  gala: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921464791_83bb7b2a.jpg',
+  founder: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921485201_84e8dcad.png',
+  firstDance: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921511175_33b6ecb1.jpg',
+  bouquet: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921533217_fe48c75e.png',
+  stationery: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921555589_9be0ac19.png',
+  tent: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921572283_a0873175.jpg',
+  birthday: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921590665_1de598ed.jpg',
+  beach: 'https://d64gsuwffb70l.cloudfront.net/6a082f1ae9d59dd71e9f600e_1778921611182_a8c63dd5.png',
+};
